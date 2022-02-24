@@ -22,8 +22,8 @@
 
 ## 2、简洁版云盘
 
-<img src="/Users/apple/Library/Application Support/typora-user-images/image-20220115211028947.png" alt="image-20220115211028947" style="zoom:50%;" />
-
+![](<img src="/Users/apple/Library/Application Support/typora-user-images/image-20220115211028947.png" alt="image-20220115211028947" style="zoom:50%;" />
+)
 
 **主要接口：**
 
