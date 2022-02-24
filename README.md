@@ -254,3 +254,7 @@ Gin 运行原理：
 
 首先web 程序初始化时候，通过创建engine对象，然后通过这个对象向net.http注册请求对应的handler，在基础之上进行封装路由规则，然后根据http请求方法进行处理用户的请求。
 
+
+如有问题，欢迎关注我的微信公众号：
+
+![](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/3ff526306067d13003a766b59a007ae258fa4ee0.jpg)
